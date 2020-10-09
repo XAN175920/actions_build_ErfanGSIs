@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://183-250-194-3.ksyungslb.com/bigota.d.miui.com/20.9.24/miui_CAS_20.9.24_affe9cc432_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fmiuiver.com%2Fcas-v20-9-24%2F
+  ROM_URL: https://183-250-194-3.ksyungslb.com/bigota.d.miui.com/20.9.24/miui_CAS_20.9.24_affe9cc432_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
